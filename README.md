@@ -17,7 +17,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=otnansirk.otnansirk)
 
 
-![Otnansirk github stats](https://github-readme-stats.vercel.app/api?username=otnansirk&show_icons=true)
+![Otnansirk github stats](https://github-readme-stats.vercel.app/api?username=otnansirk&theme=gotham&show_icons=true)
 
 
 <!--
