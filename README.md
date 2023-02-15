@@ -1,3 +1,13 @@
+<div align="right">
+  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+    <img
+      width="250"
+      align="left"
+      src="https://raw.githubusercontent.com/otnansirk/otnansirk/main/devcard.svg"
+    />
+  </a>
+</div>
+
 ### Hi there, I'm Otnansirk 👋
 
 <!--Website -->
