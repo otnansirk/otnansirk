@@ -15,7 +15,7 @@
 [![MyProfile Badge](https://img.shields.io/badge/Profile-512dcf?style=flat-square&logo=About.me&logoColor=white)](https://otnansirk.github.io/)
 [![Shorten URL Badge](https://img.shields.io/badge/Shorten_URL-e4514b?style=flat-square&logo=google-chrome&logoColor=white)](https://rebrands.netlify.app)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=otnansirk.otnansirk)
-<a href="https://github.com/otnansirk/reference-for-learning/wiki"><img src="https://img.shields.io/badge/My%20Wiki-W-brightgreen"></a>
+<a href="https://github.com/otnansirk/reference-for-learning/wiki" target="_blank" ><img src="https://img.shields.io/badge/My%20Wiki-W-brightgreen"></a>
 
 
 ![Otnansirk github stats](https://github-readme-stats.vercel.app/api?username=otnansirk&theme=gotham&show_icons=true)
