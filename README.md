@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+  <a href="https://dly.to/8QnXl5WKV4T" target="_blank">
     <img
       width="250"
       align="left"
