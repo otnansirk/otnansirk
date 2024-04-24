@@ -12,7 +12,7 @@
 
 <!--Website -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krisnanto010/)
-[![MyProfile Badge](https://img.shields.io/badge/Profile-512dcf?style=flat-square&logo=About.me&logoColor=white)](https://otnansirk.github.io/)
+[![MyProfile Badge](https://img.shields.io/badge/Profile-512dcf?style=flat-square&logo=About.me&logoColor=white)](https://otnansirk.super.site/)
 [![Shorten URL Badge](https://img.shields.io/badge/Shorten_URL-e4514b?style=flat-square&logo=google-chrome&logoColor=white)](https://rebrands.netlify.app)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=otnansirk.otnansirk)
 <a href="https://github.com/otnansirk/reference-for-learning/wiki" target="_blank">
