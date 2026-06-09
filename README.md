@@ -9,6 +9,7 @@
 </div>
 
 ### Hi there, I'm Otnansirk 👋
+I am a **Backend Engineer** from Indonesia. I am passionate about clean code, software architecture, and building tools that improve developer productivity.
 
 <!--Website -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krisnanto010/)
